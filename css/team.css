@@ -13,7 +13,7 @@
     color: #2E2F42;
 }
 
-.team > .container > ul {
+.team > .container > ul > li {
     display: flex;
     gap: 24px;
 }
